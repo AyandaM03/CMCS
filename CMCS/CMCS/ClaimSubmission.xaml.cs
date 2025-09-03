@@ -14,16 +14,14 @@ namespace CMCS
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ClaimSubmission : Window
     {
-        public MainWindow()
+        public ClaimSubmission()
         {
             InitializeComponent();
         }
 
-        private void InitializeComponent()
-        {
-            throw new NotImplementedException();
+
         }
     }
-}
+   
